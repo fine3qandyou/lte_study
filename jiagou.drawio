@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T04:58:57.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hwfkggIYhR46HKVmi5Zv" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-27T05:25:48.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="c2yx8_U3Ww68QsdnyCwZ" version="21.5.0" type="github">
   <diagram name="第 1 页" id="1-ibpuYYxeppUr7ptc3r">
     <mxGraphModel dx="1306" dy="862" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QCT88iM2n598MRnO2CrC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QCT88iM2n598MRnO2CrC-1" target="QCT88iM2n598MRnO2CrC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCT88iM2n598MRnO2CrC-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="QCT88iM2n598MRnO2CrC-1" target="QCT88iM2n598MRnO2CrC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCT88iM2n598MRnO2CrC-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="QCT88iM2n598MRnO2CrC-1" target="QCT88iM2n598MRnO2CrC-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QCT88iM2n598MRnO2CrC-1" value="上游系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -203,6 +209,18 @@
         </mxCell>
         <mxCell id="QCT88iM2n598MRnO2CrC-74" value="调用增量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="657" y="751" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCT88iM2n598MRnO2CrC-76" value="hema-inventory-logic-cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="174" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCT88iM2n598MRnO2CrC-77" value="hema-hic-cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="263" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCT88iM2n598MRnO2CrC-78" value="hema-inventory-logic-cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="657" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QCT88iM2n598MRnO2CrC-79" value="hema-hic-cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="746" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
