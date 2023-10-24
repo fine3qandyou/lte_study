@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T07:58:35.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="h0K71jldTrhk8nsMG41w" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T07:48:43.174Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6eSsz4Wj1k0OevD9alnq" version="22.0.6" type="github">
   <diagram name="第 1 页" id="1-ibpuYYxeppUr7ptc3r">
-    <mxGraphModel dx="1306" dy="862" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,13 +296,13 @@
         <mxCell id="QCT88iM2n598MRnO2CrC-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="QCT88iM2n598MRnO2CrC-141" target="QCT88iM2n598MRnO2CrC-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QCT88iM2n598MRnO2CrC-141" value="hema-inventory-logic-cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QCT88iM2n598MRnO2CrC-141" value="wdk-inventory-logic-cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="989" y="1079.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QCT88iM2n598MRnO2CrC-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="QCT88iM2n598MRnO2CrC-143" target="QCT88iM2n598MRnO2CrC-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QCT88iM2n598MRnO2CrC-143" value="hema-hic-cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QCT88iM2n598MRnO2CrC-143" value="hic-cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="989" y="1168.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QCT88iM2n598MRnO2CrC-144" value="财务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -329,7 +329,7 @@
         <mxCell id="QCT88iM2n598MRnO2CrC-150" value="gsi&amp;amp;ipm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="213" y="1251" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QCT88iM2n598MRnO2CrC-152" value="灰度仓不再发老消息&lt;br&gt;未灰度仓仍发消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="QCT88iM2n598MRnO2CrC-152" value="灰度仓接到老消息后过滤&lt;br&gt;未灰度仓仍接老消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="945" y="1029" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCT88iM2n598MRnO2CrC-155" value="gsi&amp;amp;ipm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
